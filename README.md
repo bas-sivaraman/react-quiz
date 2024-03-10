@@ -11,7 +11,7 @@ Its a beginner level project developed as part of a learning experience. While w
 As its a simple application, it doesnt have a lot of features. However, I would like to share the things I have learnt and incorporated in this project. I came to know about a new element called 'progress' for  the first time and have implemented the same here. It also has been a refresher for me practising conditionals, array methods, DOM selections and manipulations etc. I have also implemented a timer and when the time is up the quiz ends with the total points displayed along with a restart option.
 
 ## Helpful links
-   * [React Quiz]()
+   * [React Quiz - project link](https://react-quiz-inky-ten.vercel.app/)
    * Other projects
        * [The Wild Oasis](https://github.com/bas-sivaraman/the-wild-oasis)
        * [Pizza Stop](https://github.com/bas-sivaraman/pizza-stop)  
